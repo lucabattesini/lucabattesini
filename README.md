@@ -5,9 +5,6 @@
 ### Contact me
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucabattesini1@gmail.com)
 
-
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabattesini&show_icons=true&theme=radical)
-
 ### I've used
 
 Languages:
