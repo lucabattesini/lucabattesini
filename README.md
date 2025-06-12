@@ -1,5 +1,5 @@
 ### Hi, I'm Luca Battesini 🙋‍♂️
-* Coding 👨‍💻
+* Back-end developer 👨‍💻
 
 ### Contact me
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucabattesini1@gmail.com)
