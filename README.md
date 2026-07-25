@@ -24,6 +24,7 @@ Web aplication:
 AI:
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 
 Databases:
 
